@@ -1,2 +1,2 @@
-# Gpu-Skinning-Gpu-Instance
-Gpu Skinning Gpu Instance
+# GPU-Skinning-GPU-Instance
+GPU Skinning GPU Instance
