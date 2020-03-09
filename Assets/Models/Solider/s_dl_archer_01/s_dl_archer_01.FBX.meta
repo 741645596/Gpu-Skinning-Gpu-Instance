@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: 66c7ad65085c2684a84004e192535aba
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: ' L_Forearm'
+  - first:
+      1: 100002
+    second: ' L_Thigh'
+  - first:
+      1: 100004
+    second: ' L_UpperArm'
+  - first:
+      1: 100006
+    second: Cloth1
+  - first:
+      1: 100008
+    second: F_cloth
+  - first:
+      1: 100010
+    second: H_cloth
+  - first:
+      1: 100012
+    second: hat
+  - first:
+      1: 100014
+    second: Head
+  - first:
+      1: 100016
+    second: L_Calf
+  - first:
+      1: 100018
+    second: L_Foot
+  - first:
+      1: 100020
+    second: L_Hand
+  - first:
+      1: 100022
+    second: Pivot
+  - first:
+      1: 100024
+    second: R_Calf
+  - first:
+      1: 100026
+    second: R_Foot
+  - first:
+      1: 100028
+    second: R_Forearm
+  - first:
+      1: 100030
+    second: R_Hand
+  - first:
+      1: 100032
+    second: R_Thigh
+  - first:
+      1: 100034
+    second: R_UpperArm
+  - first:
+      1: 100036
+    second: Root
+  - first:
+      1: 100038
+    second: s_dl_archer_01
+  - first:
+      1: 100040
+    second: //RootNode
+  - first:
+      1: 100042
+    second: Spine1
+  - first:
+      1: 100044
+    second: Spine2
+  - first:
+      1: 100046
+    second: Sword
+  - first:
+      4: 400000
+    second: ' L_Forearm'
+  - first:
+      4: 400002
+    second: ' L_Thigh'
+  - first:
+      4: 400004
+    second: ' L_UpperArm'
+  - first:
+      4: 400006
+    second: Cloth1
+  - first:
+      4: 400008
+    second: F_cloth
+  - first:
+      4: 400010
+    second: H_cloth
+  - first:
+      4: 400012
+    second: hat
+  - first:
+      4: 400014
+    second: Head
+  - first:
+      4: 400016
+    second: L_Calf
+  - first:
+      4: 400018
+    second: L_Foot
+  - first:
+      4: 400020
+    second: L_Hand
+  - first:
+      4: 400022
+    second: Pivot
+  - first:
+      4: 400024
+    second: R_Calf
+  - first:
+      4: 400026
+    second: R_Foot
+  - first:
+      4: 400028
+    second: R_Forearm
+  - first:
+      4: 400030
+    second: R_Hand
+  - first:
+      4: 400032
+    second: R_Thigh
+  - first:
+      4: 400034
+    second: R_UpperArm
+  - first:
+      4: 400036
+    second: Root
+  - first:
+      4: 400038
+    second: s_dl_archer_01
+  - first:
+      4: 400040
+    second: //RootNode
+  - first:
+      4: 400042
+    second: Spine1
+  - first:
+      4: 400044
+    second: Spine2
+  - first:
+      4: 400046
+    second: Sword
+  - first:
+      43: 4300000
+    second: s_dl_archer_01
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: s_dl_archer_01
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11 - Default
+    second: {fileID: 2100000, guid: 04095c7f3fc7d8c43896ba20ba8555f5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - d43c4252052f8944bb37a4d3ca957fa1
+  - 9cf7d7362fcf37542af4a5f4b2984146
+  - 4a25a8582ed99a14bacc3174c0a720e9
+  - 2d31868505084d3459871a8c32ef916c
+  - 8aca28326007ba94ab73a5a19f248cd7
+  - 41756682dc46c7544a7ed69bc651c6c1
+  - 2a9b86ca7f22522498b0dfe7c7603a0b
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
